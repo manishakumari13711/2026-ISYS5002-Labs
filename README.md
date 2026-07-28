@@ -1,2 +1,2 @@
-# 2026-ISYS5002-Labs
+# 2026-ISYS5002-Labs week 2
 *this repository is for storing notebooks from the labs. this is an update*.
